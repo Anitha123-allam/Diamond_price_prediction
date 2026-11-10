@@ -2,7 +2,8 @@
 
 # 💎 Diamond Price Prediction Using Machine Learning
 <p align="center">
-  <img src="images/diamond_banner.png"
+  <img src="![Uploading Brilliant Diamonds on Sapphire Blue.png…]()
+"
        alt="Diamond Price Prediction Banner"
        width="100%">
 </p>
