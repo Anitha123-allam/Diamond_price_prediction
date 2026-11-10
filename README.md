@@ -1,6 +1,7 @@
 # Diamond_price_prediction
 
 # 💎 Diamond Price Prediction Using Machine Learning
+![Uploading image.png…]()
 
 ## 1. Project Overview
 
