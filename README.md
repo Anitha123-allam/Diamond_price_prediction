@@ -150,6 +150,9 @@ The application displays an estimated diamond price based on the entered charact
 This project demonstrates how Machine Learning can be used to predict diamond prices based on diamond characteristics. By integrating a trained regression model with Streamlit, the project provides a simple and interactive application for diamond price estimation.
 
 ---
+## 12. Deployment Link
+https://diamondpriceprediction-jmj5kaxuoq4sxdpnvoigm4.streamlit.app/
+
 
 **Project Title:** Diamond Price Prediction Using Machine Learning  
 **Domain:** Machine Learning – Regression  
