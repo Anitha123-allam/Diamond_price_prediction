@@ -2,12 +2,30 @@
 
 # 💎 Diamond Price Prediction Using Machine Learning
 <p align="center">
-  <img src="![Uploading Brilliant Diamonds on Sapphire Blue.png…]()
-"
-       alt="Diamond Price Prediction Banner"
+  <img src="<p align="center">
+  <img src="images/diamond_banner.png"
+       alt="Diamond Price Prediction"
        width="100%">
 </p>
 
+<h1 align="center">
+  💎 Diamond Price Prediction
+</h1>
+
+<p align="center">
+  Machine Learning | Python | Streamlit
+</p>"
+       alt="Diamond Price Prediction"
+       width="100%">
+</p>
+
+<h1 align="center">
+  💎 Diamond Price Prediction
+</h1>
+
+<p align="center">
+  Machine Learning | Python | Streamlit
+</p>
 ## 1. Project Overview
 
 The **Diamond Price Prediction** project is a Machine Learning-based web application that predicts the estimated price of a diamond based on its characteristics and measurements.
