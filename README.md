@@ -1,7 +1,11 @@
 # Diamond_price_prediction
 
 # 💎 Diamond Price Prediction Using Machine Learning
-![Uploading image.png…]()
+<p align="center">
+  <img src="images/diamond_banner.png"
+       alt="Diamond Price Prediction Banner"
+       width="100%">
+</p>
 
 ## 1. Project Overview
 
