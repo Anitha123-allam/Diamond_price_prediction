@@ -9,12 +9,6 @@
        width="100%">
 </p>
 
-<h1 align="center">💎 Diamond Price Prediction</h1>
-
-<p align="center">
-  Machine Learning | Python | Streamlit
-</p>
-
 
 ## 1. Project Overview
 
