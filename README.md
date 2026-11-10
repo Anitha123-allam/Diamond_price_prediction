@@ -3,7 +3,8 @@
 # 💎 Diamond Price Prediction Using Machine Learning
 
 
-![Uploading Brilliant Diamonds on Sapphire Blue.png…]()
+
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/c4146f86-ce63-4971-8583-40b8d1eb4c15" />
 
 
 ## 1. Project Overview
