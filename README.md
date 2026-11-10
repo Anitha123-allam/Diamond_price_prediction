@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="images/diamond_banner.png"
+  <img src="C:\Users\anith\Downloads\Brilliant Diamonds on Sapphire Blue.png"
        alt="Diamond Price Prediction"
        width="100%">
 </p>
