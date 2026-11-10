@@ -2,7 +2,18 @@
 
 # 💎 Diamond Price Prediction Using Machine Learning
 
-"C:\Users\anith\Downloads\Brilliant Diamonds on Sapphire Blue.png"
+
+<p align="center">
+  <img src="images/diamond_banner.png"
+       alt="Diamond Price Prediction"
+       width="100%">
+</p>
+
+<h1 align="center">💎 Diamond Price Prediction</h1>
+
+<p align="center">
+  Machine Learning | Python | Streamlit
+</p>
 
 
 ## 1. Project Overview
